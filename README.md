@@ -1,5 +1,5 @@
 # VTC APP
-# Projet Flutter
+# Projet Flutter individuel
 Application flutter à rendre avant le 08/04.
 
 • Flutter version 3.9.0-0.2.pre
